@@ -1,0 +1,176 @@
+{
+   "success":true,
+   "total_count":2,
+   "message":"Found 2 network connections",
+   "data":{
+      "connections":[
+         {
+            "connectionId":226,
+            "inviterProviderId":368,
+            "inviteeProviderId":376,
+            "status":2,
+            "createdOn":"2020-11-10T03:42:00",
+            "inviterProvider":null,
+            "inviteeProvider":{
+               "providerid":376,
+               "firstName":"john",
+               "lastName":"snow",
+               "middleName":"s",
+               "photoId":null,
+               "title":"RDA",
+               "degrees":[
+                  
+               ],
+               "licensure":[
+                  
+               ],
+               "offices":[
+                  {
+                     "oid":389,
+                     "pgId":1,
+                     "name":"Virtual",
+                     "address":null,
+                     "address2":null,
+                     "city":"Amador City",
+                     "stateCode":"CA",
+                     "stateID":0,
+                     "zip":"95601",
+                     "website":null,
+                     "lat":null,
+                     "lng":null,
+                     "country":"US",
+                     "timeZone":"UTC -5",
+                     "ownerUserId":5696,
+                     "isDeleted":0,
+                     "appInterval":null,
+                     "campaignPageUrl":null,
+                     "denticonOid":0,
+                     "placeOfServiceId":0,
+                     "phone":null,
+                     "email":null,
+                     "fullAddress":"Amador City, CA, 95601, US",
+                     "fullAddressWithoutCountry":"Amador City, CA, 95601"
+                  }
+               ],
+               "fullName":"john s snow",
+               "meetingUsername":"2bbfb090830a4f0e99f9e86bbe86e898user5696",
+               "isOnlineNow":false,
+               "user":{
+                  "id":0,
+                  "email":"john12@yopmail.com",
+                  "userName":null,
+                  "phone":null,
+                  "firstName":null,
+                  "lastName":null,
+                  "middleName":null,
+                  "createdOn":"0001-01-01T00:00:00",
+                  "pgid":0,
+                  "roles":null,
+                  "userSubscription":null,
+                  "password":null,
+                  "dateOfBirth":null,
+                  "envType":0,
+                  "deviceId":null,
+                  "osType":null,
+                  "employer":null,
+                  "address1":null,
+                  "address2":null,
+                  "country":null,
+                  "state":null,
+                  "city":null,
+                  "zip":null,
+                  "fullName":""
+               }
+            }
+         },
+         {
+            "connectionId":181,
+            "inviterProviderId":368,
+            "inviteeProviderId":195,
+            "status":2,
+            "createdOn":"2020-10-21T04:48:00",
+            "inviterProvider":null,
+            "inviteeProvider":{
+               "providerid":195,
+               "firstName":"Michelle",
+               "lastName":"Brower",
+               "middleName":"",
+               "photoId":"1637287788505533243_bfb3adb8-c7a5-4b33-97b1-e13652bfb96f.jpg",
+               "title":"DDS",
+               "degrees":[
+                  
+               ],
+               "licensure":[
+                  {
+                     "licensureId":63,
+                     "providerId":195,
+                     "addr":"{\"country\":\"US\",\"states\":[\"CA\"]}",
+                     "specializations":null,
+                     "certificateType":"{\"IsBoardCertified\":false,\"IsPracticeLimitedTo\":false,\"IsNotApplicable\":false}",
+                     "professionalFocuses":"{\"CosmeticDentistry\":true,\"Implants\":false,\"SedationDentistry\":false,\"SleepApnea\":false,\"SleepDentistry\":false,\"ProfessionalFocusesOther\":\"\"}",
+                     "practiceStyle":"{\"IsInOfficeSetting\":false,\"IsIndependentHygienistPartTime\":false,\"IsIndependentHygienistFullTime\":false,\"IsCommunitySettings\":false,\"CommunitySettingsMiles\":\"\",\"IsInHomeAppointments\":false,\"InHomeAppointmentsMiles\":\"\"}"
+                  }
+               ],
+               "offices":[
+                  {
+                     "oid":246,
+                     "pgId":1,
+                     "name":"Virtual",
+                     "address":"1111 Virtual Ave",
+                     "address2":null,
+                     "city":"Huntington Beach",
+                     "stateCode":"CA",
+                     "stateID":0,
+                     "zip":"92647",
+                     "website":null,
+                     "lat":null,
+                     "lng":null,
+                     "country":"US",
+                     "timeZone":"UTC -8",
+                     "ownerUserId":4322,
+                     "isDeleted":0,
+                     "appInterval":null,
+                     "campaignPageUrl":null,
+                     "denticonOid":0,
+                     "placeOfServiceId":0,
+                     "phone":null,
+                     "email":null,
+                     "fullAddress":"1111 Virtual Ave, Huntington Beach, CA, 92647, US",
+                     "fullAddressWithoutCountry":"1111 Virtual Ave, Huntington Beach, CA, 92647"
+                  }
+               ],
+               "fullName":"Michelle Brower",
+               "meetingUsername":"a371136038484fd283861a154bf4be85user4322",
+               "isOnlineNow":false,
+               "user":{
+                  "id":0,
+                  "email":"allangore826@gmail.com",
+                  "userName":null,
+                  "phone":null,
+                  "firstName":null,
+                  "lastName":null,
+                  "middleName":null,
+                  "createdOn":"0001-01-01T00:00:00",
+                  "pgid":0,
+                  "roles":null,
+                  "userSubscription":null,
+                  "password":null,
+                  "dateOfBirth":null,
+                  "envType":0,
+                  "deviceId":null,
+                  "osType":null,
+                  "employer":null,
+                  "address1":null,
+                  "address2":null,
+                  "country":null,
+                  "state":null,
+                  "city":null,
+                  "zip":null,
+                  "fullName":""
+               }
+            }
+         }
+      ],
+      "totalCount":2
+   }
+}
